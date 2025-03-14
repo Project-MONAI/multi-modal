@@ -15,7 +15,9 @@ This master repository provides access to the following specialized agentic fram
 
 ## Agentic Framework Overviews
 
-**VLM-Radiology-Agent-Framework** is a radiology-focused framework that combines medical images with text data to assist radiologists in diagnosis and interpretation.
+### VLM-Radiology-Agent-Framework
+
+A radiology-focused framework that combines medical images with text data to assist radiologists in diagnosis and interpretation.
 
 **Key Features:**
 
@@ -25,7 +27,11 @@ This master repository provides access to the following specialized agentic fram
 
 For details, see the [VLM-Radiology-Agent-Framework repository](https://github.com/project-monai/VLM-Radiology-Agent-Framework) or the [VILA-M3 Paper](https://arxiv.org/pdf/2411.12915).
 
-**VLM-Surgical-Agent-Framework** provides end-to-end support for surgical workflows through a multi-agent system.
+------
+
+### VLM-Surgical-Agent-Framework
+
+A comprehensive framework providing end-to-end support for surgical workflows through a multi-agent system.
 
 **Key Features:**
 
@@ -38,7 +44,9 @@ For implementation details, see the [VLM-Surgical-Agent-Framework repository](ht
 
 ## Foundation Models and Datasets
 
-**CT-CHAT**, developed by the University of Zurich, is a cutting-edge vision-language foundational chat model specifically designed to enhance the interpretation and diagnostic capabilities of 3D chest CT imaging. It leverages the CT-CLIP framework and a Visual Question Answering (VQA) dataset adapted from CT-RATE.
+### CT-CHAT
+
+A cutting-edge vision-language foundational chat model developed by the University of Zurich, specifically designed to enhance the interpretation and diagnostic capabilities of 3D chest CT imaging.
 
 **Key Features:**
 
@@ -47,7 +55,11 @@ For implementation details, see the [VLM-Surgical-Agent-Framework repository](ht
 
 For implementation details and access to CT-CHAT, please visit the [official GitHub repository](https://github.com/ibrahimethemhamamci/CT-CHAT).
 
-**RadViLLA** is a 3D vision-language model for radiology developed by [RadImageNet](https://www.radimagenet.com/), [The BioMedical Engineering and Imaging Institute at Mount Sinai's Icahn School of Medicine](https://icahn.mssm.edu/research/bmeii), and NVIDIA.
+------
+
+### RadViLLA
+
+A 3D vision-language model for radiology developed by [RadImageNet](https://www.radimagenet.com/), [The BioMedical Engineering and Imaging Institute at Mount Sinai's Icahn School of Medicine](https://icahn.mssm.edu/research/bmeii), and NVIDIA.
 
 **Key Features:**
 
@@ -55,7 +67,13 @@ For implementation details and access to CT-CHAT, please visit the [official Git
 - Uses two-stage training to integrate 3D scans with text
 - Optimized for clinical query response with superior accuracy metrics
 
-**CT-RATE** is a pioneering dataset in 3D medical imaging that uniquely pairs textual data with image data focused on chest CT volumes. This comprehensive dataset addresses a major challenge in computational research in 3D medical imaging by providing:
+------
+
+### CT-RATE Dataset
+
+A pioneering dataset in 3D medical imaging that uniquely pairs textual data with image data focused on chest CT volumes.
+
+**Key Features:**
 
 - 25,692 non-contrast chest CT volumes (expanded to 50,188 through various reconstructions)
 - Data from 21,304 unique patients
