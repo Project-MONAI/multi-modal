@@ -42,7 +42,7 @@ A comprehensive framework providing end-to-end support for surgical workflows th
 
 For implementation details, see the [VLM-Surgical-Agent-Framework repository](https://github.com/project-monai/VLM-Surgical-Agent-Framework).
 
-## Foundation Models and Datasets
+## Foundation Models
 
 ### CT-CHAT
 
@@ -66,20 +66,6 @@ A 3D vision-language model for radiology developed by [RadImageNet](https://www.
 - Trained on 75,000 CT scans and 1M+ question-answer pairs
 - Uses two-stage training to integrate 3D scans with text
 - Optimized for clinical query response with superior accuracy metrics
-
-------
-
-### CT-RATE Dataset
-
-A pioneering dataset in 3D medical imaging that uniquely pairs textual data with image data focused on chest CT volumes.
-
-**Key Features:**
-
-- 25,692 non-contrast chest CT volumes (expanded to 50,188 through various reconstructions)
-- Data from 21,304 unique patients
-- Corresponding radiology text reports
-
-Access the dataset on [HuggingFace](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE).
 
 ## Getting Started
 
