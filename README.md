@@ -8,7 +8,7 @@ This open ecosystem enables seamless integration and management of agentic workf
 
 This master repository provides access to the following specialized agentic frameworks and foundation models:
 
-- **[VLM-Radiology-Agent-Framework](https://github.com/project-monai/VLM-Radiology-Agent-Framework)** - Multi-modal agentic framework for radiology and medical imaging analysis (VILA-M3)
+- **[VLM-Radiology-Agent-Framework](https://github.com/Project-MONAI/VLM/)** - Multi-modal agentic framework for radiology and medical imaging analysis (VILA-M3)
 - **[VLM-Surgical-Agent-Framework](https://github.com/project-monai/VLM-Surgical-Agent-Framework)** - Multi-modal agentic framework for surgical procedures
 - **[CT-CHAT](https://github.com/ibrahimethemhamamci/CT-CHAT)** - Vision-language foundational chat model for 3D chest CT volumes
 - **[RadViLLA](https://www.radimagenet.com/)** - 3D vision-language model for radiology covering chest, abdomen, and pelvis
@@ -25,7 +25,7 @@ A radiology-focused framework that combines medical images with text data to ass
 - Leverages LLMs and VLMs for comprehensive analysis
 - Access specialized expert models on-demand (VISTA3D, MONAI BRATS, TorchXRayVision)
 
-For details, see the [VLM-Radiology-Agent-Framework repository](https://github.com/project-monai/VLM-Radiology-Agent-Framework) or the [VILA-M3 Paper](https://arxiv.org/pdf/2411.12915).
+For details, see the [VLM-Radiology-Agent-Framework repository](https://github.com/Project-MONAI/VLM/) or the [VILA-M3 Paper](https://arxiv.org/pdf/2411.12915).
 
 ------
 
